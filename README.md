@@ -31,4 +31,4 @@ Pryvate is provided for educational purposes only. It is essential to use this t
 
 Note: This script may generate false positives or miss legitimate Bitcoin private keys. Always verify any discovered private keys with caution.
 
-Feel free to enhance this description with more details or customize it according to your preferences.
+/VooDooFus/
